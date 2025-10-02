@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be attending the AAAI/ACM Conference on AI, Ethics, and Society in Madrid from Oct 20-22! 
+I will be attending the AAAI/ACM Conference on AI, Ethics, and Society in Madrid from Oct 20-22!

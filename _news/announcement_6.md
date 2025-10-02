@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Grateful to be a part of the AI Safety Fellowship by the [AI Safety Initiative](https://www.aisi.dev/). Excited to learn, contribute, and collaborate with others passionate about AI safety!  
+Grateful to be a part of the AI Safety Fellowship by the [AI Safety Initiative](https://www.aisi.dev/). Excited to learn, contribute, and collaborate with others passionate about AI safety!

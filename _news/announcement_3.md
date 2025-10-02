@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am joining the AI team at [Multiscale](https://multiscale.tech/) this Summer as an intern! :sparkles: 
+I am joining the AI team at [Multiscale](https://multiscale.tech/) this Summer as an intern! :sparkles:
