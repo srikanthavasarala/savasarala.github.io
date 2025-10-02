@@ -1,6 +1,10 @@
 name: Prettier code formatter
 
 on:
+  workflow_dispatch:  # only run if triggered manually
+
+
+on:
   pull_request:
     branches:
       - master
